@@ -12,6 +12,6 @@ Run the project using npm start.
 Open the project in your browser at http://localhost:3000.
 
 ## License
-This project is licensed under the MIT License - see the mit LICENSE file for details.
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 
