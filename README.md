@@ -1,3 +1,3 @@
 # PacMan-Exercise
 PacMan moving exercise
-<img src= "Pacmanimg.jpeg" width='300'/>
+<img src= "Pacmanimg.jpeg" width='500'/>
